@@ -1,0 +1,11 @@
+CMS PUBLIC SCHOOL — LIVE LOCAL PREVIEW
+
+Open index.html in a browser.
+
+The preview is self-contained:
+- navigation works
+- mobile menu works
+- pages work through hash URLs
+- admission enquiry form works in demo mode
+- WhatsApp and phone actions are wired
+- no external JS framework/CDN is required

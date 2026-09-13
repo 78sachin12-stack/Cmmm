@@ -1,0 +1,1 @@
+Dependency-free Vercel/Netlify frontend. index.html has a visible fallback shell, navigation is hash-based, and app.js is syntax-validated. Supabase files from the supplied project are retained for ERP backend configuration.
